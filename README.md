@@ -1,7 +1,6 @@
-
 ## Scaffold Simple
 
-> A TypeScript simple template
+> web-front-test1-site
 
 ## 使用
 
